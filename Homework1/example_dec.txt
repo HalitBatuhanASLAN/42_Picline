@@ -1,9 +1,0 @@
-#include<stdio.h>
-
-int main()
-{
-int age = 5; /* There is 22 characters as comment.*/
-printf("how old are you?\n");
-printf("you are 5 years old\n");
-return 0;
-}
