@@ -1,0 +1,9 @@
+#include<stdio.h>
+
+int main()
+{
+int age = 5; /*variable to hold users age*/
+printf("how old are you?\n");
+printf("you are 5 years old\n");
+return 0;
+}
